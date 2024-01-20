@@ -1,2 +1,2 @@
 # responsive-website
- Website de prueba HTML, CSS Grid y Flexbox 
+ Website de prueba con HTML, CSS Grid y Flexbox 
